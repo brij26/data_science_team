@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+ipykernel
+agno
+openai
+python-dotenv
+sqlalchemy
+ddgs
+pypdf
+chonkie
+chonkie[openai]
+lancedb
+fastapi
+googlesearch-python
+arxiv
